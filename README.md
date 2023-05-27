@@ -268,3 +268,6 @@ as well as `make html`
 We are actively accepting contributions. Please mail shwetabh.kumar@fylehq.com if you wish to collaborate on this.
 
 
+## CI Test
+
+Changing the readme without bumping the version should fail CI
